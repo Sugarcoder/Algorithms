@@ -1,0 +1,21 @@
+# Integer Multiplication:
+
+# Input: 2 digit numbers - x and y
+
+# Output: x * y
+
+
+
+
+# Grade-School Algorithm:
+
+# Ex. 1234 * 5678 = Algorithm will terminate with the product (x * y)
+
+
+
+
+# Karatsuba Multiplication:
+
+# 1234 & 5678  = 12 * 56, 34 * 78
+
+# (a+b)(c+d) = ad + bc
