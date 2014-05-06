@@ -1,0 +1,35 @@
+# Divide & Conquer: 
+# Divide a big problem into smaller problems, solve it and bring it back together. 
+
+
+
+
+# Sorting algorithms:
+
+# Selection Sort
+
+# Insertion Sort
+
+# Bubble Sort
+
+
+
+
+# Sorting Problem:
+
+# Input: array of numbers, unsorted
+# Output: array of numbers, sorted in increasing numbers
+
+
+
+
+
+# Merge Sort example:
+
+# 57461625
+# Recursive algorithm (5746, 1625) -> (7456, 6215)  = split it in half, solve recursively and then merge it back together. 
+
+
+
+
+
